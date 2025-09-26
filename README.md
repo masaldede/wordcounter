@@ -1,26 +1,26 @@
-# 📚 Word Frequency Counter
+# Word Frequency Counter
 
-## 🚀 Purpose  
+## Purpose  
 This is a simple Python script that reads a text file and identifies the most frequently occurring word. It demonstrates fundamental concepts like file handling, dictionaries, loops, and word counting techniques.
 
-## 🧠 Key Concepts Practiced  
+## Key Concepts Practiced  
 - File input and reading lines  
 - Dictionary-based word counting  
 - String manipulation  
 - Finding max values in key-value pairs  
 - Conditional logic
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - Python 3.x  
 - No external libraries
 
-## 📋 Features  
+## Features  
 - Reads any `.txt` file  
 - Counts all words and their frequencies  
 - Identifies and prints the word with the highest frequency  
 - Includes multiple alternative methods for counting (commented out)
 
-## 📦 How to Run
+## How to Run
 ```bash
 python wordcounter.py
 Enter File: sample.txt
